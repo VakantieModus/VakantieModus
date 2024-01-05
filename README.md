@@ -9,9 +9,8 @@ Skills: Python, R, Azure Devops and automation through pipelines
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VakantieModus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ Casper Dert/)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=VakantieModus)](https://github.com/ryo-ma/github-profile-trophy)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VakantieModus)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/casper-dert-a03982172/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VakantieModus)](https://github.com/anuraghazra/github-readme-stats)
 
