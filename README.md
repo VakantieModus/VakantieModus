@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Casper's GitHub stats](https://github-readme-stats.vercel.app/api?username=VakantieModus)](https://github.com/anuraghazra/github-readme-stats)
+[![Casper's GitHub stats](https://github-readme-stats.vercel.app/api?username=VakantieModus)]
 
 - 🔭 I’m currently working on getting my masters degree in [Data Science & AI at Eindhoven university of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence)
 - 🌱 I’m currently learning ...
