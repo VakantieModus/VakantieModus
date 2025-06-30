@@ -1,5 +1,5 @@
 ### Hi there 👋, Casper Dert
-#### Intern at De Nederlandsche Bank | Master Student Data Science & AI at the TU/e. 
+#### Full stack developer | Master Student Data Science & AI at the TU/e. 
 
 I’m currently working on getting my masters degree in [Data Science & AI at Eindhoven university of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence)
 
